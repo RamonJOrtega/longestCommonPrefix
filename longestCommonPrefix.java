@@ -2,8 +2,9 @@
  * longestCommonPrefix
  */
 public class longestCommonPrefix {
-    public String longestCommongPrefix(String[] strs) {
-        
+    public String getLongestCommonPrefix(String[] strs) {
+        String longestCommonPrefix = strs.toString();
+        return longestCommonPrefix;
     }
 
     
