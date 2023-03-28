@@ -4,7 +4,8 @@ package src;
  */
 public class longestCommonPrefix {
     public String getLongestCommonPrefix(String[] strs) {
-        String longestCommonPrefix = strs.toString();
+
+        String longestCommonPrefix = "";
         return longestCommonPrefix;
     }
 
